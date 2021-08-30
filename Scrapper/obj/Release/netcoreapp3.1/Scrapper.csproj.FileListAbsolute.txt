@@ -1,0 +1,16 @@
+/Users/andrei/Work/Sorin/Scrapper/Scrapper/bin/Release/netcoreapp3.1/Scrapper.deps.json
+/Users/andrei/Work/Sorin/Scrapper/Scrapper/bin/Release/netcoreapp3.1/Scrapper.runtimeconfig.json
+/Users/andrei/Work/Sorin/Scrapper/Scrapper/bin/Release/netcoreapp3.1/Scrapper.runtimeconfig.dev.json
+/Users/andrei/Work/Sorin/Scrapper/Scrapper/bin/Release/netcoreapp3.1/Scrapper.dll
+/Users/andrei/Work/Sorin/Scrapper/Scrapper/bin/Release/netcoreapp3.1/Scrapper.pdb
+/Users/andrei/Work/Sorin/Scrapper/Scrapper/bin/Release/netcoreapp3.1/HtmlAgilityPack.dll
+/Users/andrei/Work/Sorin/Scrapper/Scrapper/bin/Release/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/andrei/Work/Sorin/Scrapper/Scrapper/obj/Release/netcoreapp3.1/Scrapper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrei/Work/Sorin/Scrapper/Scrapper/obj/Release/netcoreapp3.1/Scrapper.AssemblyInfoInputs.cache
+/Users/andrei/Work/Sorin/Scrapper/Scrapper/obj/Release/netcoreapp3.1/Scrapper.AssemblyInfo.cs
+/Users/andrei/Work/Sorin/Scrapper/Scrapper/obj/Release/netcoreapp3.1/Scrapper.csproj.CoreCompileInputs.cache
+/Users/andrei/Work/Sorin/Scrapper/Scrapper/obj/Release/netcoreapp3.1/Scrapper.csproj.CopyComplete
+/Users/andrei/Work/Sorin/Scrapper/Scrapper/obj/Release/netcoreapp3.1/Scrapper.dll
+/Users/andrei/Work/Sorin/Scrapper/Scrapper/obj/Release/netcoreapp3.1/Scrapper.pdb
+/Users/andrei/Work/Sorin/Scrapper/Scrapper/obj/Release/netcoreapp3.1/Scrapper.genruntimeconfig.cache
+/Users/andrei/Work/Sorin/Scrapper/Scrapper/obj/Release/netcoreapp3.1/Scrapper.csproj.AssemblyReference.cache
